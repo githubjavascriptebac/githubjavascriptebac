@@ -1,8 +1,8 @@
 ### Olá 👋
 
 ###### Sobre o Pedro
-blablablabla
+7 anos de experiência no desenvolvimento de projetos com o uso de diversas tecnologias, para desenvolvimento mobile, web, automações e outros.
 
-###bla
+### Detalhes
 
-# bla
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=githubjavascriptebac&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
