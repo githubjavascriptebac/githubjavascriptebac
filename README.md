@@ -13,7 +13,7 @@
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubebacjavascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubjavascriptebac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
